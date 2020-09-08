@@ -82,8 +82,8 @@ Termux App (For Android Users)
 
 > git clone https://github.com/TermuxHackz/HiddenEye
 
-> chmod 777 HiddenEye
-
 > cd HiddenEye
 
-> ./HiddenEye.py
+> chmod +x *
+
+> ./HiddenEye.py or python HiddenEye.py
